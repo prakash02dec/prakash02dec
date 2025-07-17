@@ -3,8 +3,6 @@
 <h1 align="left">Hi there 👋, Hope you are having a good day!</h1>
 <h4 align="left">I am Software Development Engineer 1 at Razorpay</h4>
 <h4 align=""> I graduated with BTech in Computer Science and Engineering from IIIT Dharwad in 2024 </h4>
-<h4 align=""> Thats a short summary. Not gonna tell how many language I worked with before or how many commits. Judge me based on project. </h4>
-<h4> <a href="https://github.com/prakash-rzp"> Link to my Razorpay Github Account </a> </h4>
 
 <!--
 <h3 align="left">Github Trophies:</h3>
